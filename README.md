@@ -1,6 +1,8 @@
 Laptop
 ======
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/laptop.svg)](https://www.guardrails.io)
+
 Laptop is a script to set up an OS X laptop for Rails development.
 
 Requirements
